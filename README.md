@@ -40,7 +40,7 @@ D) Quotation marks
 
 - Clone the repository:  
   ```bash
-  git clone https://github.com/your-username/python-mcq-500.git
+  git clone git@github.com:edubrotech/python_interview_questions.git
   cd python-mcq-500
   ```
 
