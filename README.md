@@ -26,8 +26,12 @@ Each set is grouped by concept, making it easy to navigate and practice:
 ## 🧠 Sample Question Format
 
 ```text
-Which of the following is the correct extension of the Python file?
-A) .python B) .pl C) .py D) .p
+1: Which of the following is the correct extension of the Python file?
+A) .python 
+B) .pl 
+C) .py
+D) .p
+
 Answer: C
 
 Who developed Python Programming Language?
