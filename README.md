@@ -1,25 +1,26 @@
 # 🐍 500+ Python Multiple Choice Questions (MCQs)
 
+Created by [Rakesh Singh Bajetha](https://www.youtube.com/@edubrotech?sub_confirmation=1) for the **Edubrotech** YouTube channel.  
 Welcome to the ultimate repository of **Python MCQs** – a carefully curated list of over **500 questions** ranging from basic to advanced, designed for students, job seekers, and professionals preparing for interviews and exams.
 
 ---
 
-## 📚 Topics Covered
+## 📘 Topics Overview
 
-Each set is grouped by concept, making it easy to navigate and practice:
+This repository contains MCQs categorized into various topics of Python. Use the links below to quickly navigate to each section.
 
-| Range       | Topic                                |
-|-------------|--------------------------------------|
-| 1–50        | Basics of Python                     |
-| 51–100      | Data Types & Operators               |
-| 101–150     | Control Flow                         |
-| 151–200     | Functions & Scope                    |
-| 201–250     | Lists, Tuples, Sets, Dicts           |
-| 251–300     | Strings                              |
-| 301–350     | File Handling & Exceptions           |
-| 351–400     | Object-Oriented Programming (OOP)    |
-| 401–450     | Modules, Libraries, Advanced Topics  |
-| 451–500     | Miscellaneous + Output-based Qs      |
+| Range       | Topic                                | Link                                               |
+|-------------|--------------------------------------|----------------------------------------------------|
+| 1–50        | Basics of Python                     | [Go to section](#1-python-basics-1–50)             |
+| 51–100      | Data Types & Operators               | [Go to section](#2-data-types--operators-51–100)   |
+| 101–150     | Control Flow                         | [Go to section](#3-control-flow-101–150)           |
+| 151–200     | Functions & Scope                    | [Go to section](#4-functions--scope-151–200)       |
+| 201–250     | Lists, Tuples, Sets, Dicts           | [Go to section](#5-lists-tuples-sets-dicts-201–250)|
+| 251–300     | Strings                              | [Go to section](#6-strings-251–300)                |
+| 301–350     | File Handling & Exceptions           | [Go to section](#7-file-handling--exceptions-301–350)|
+| 351–400     | Object-Oriented Programming (OOP)    | [Go to section](#8-oop-object-oriented-programming-351–400)|
+| 401–450     | Modules, Libraries, Advanced Topics  | [Go to section](#9-modules--advanced-topics-401–450)|
+| 451–500     | Miscellaneous + Output-based Qs      | [Go to section](#10-misc--output-based-questions-451–500)|
 
 ---
 
@@ -34,12 +35,20 @@ D) .p
 
 Answer: C
 
-Who developed Python Programming Language?
-A) Wick van Rossum B) Rasmus Lerdorf C) Guido van Rossum D) Niene Stom
+2:-Who developed Python Programming Language?
+A) Wick van Rossum 
+B) Rasmus Lerdorf 
+C) Guido van Rossum 
+D) Niene Stom
+
 Answer: C
 
-What is the maximum possible length of an identifier in Python?
-A) 16 B) 32 C) 128 D) No fixed length is specified
+3:-What is the maximum possible length of an identifier in Python?
+A) 16 
+B) 32 
+C) 128 
+D) No fixed length is specified
+
 Answer: D
 
 Which of the following is used to define a block of code in Python?
@@ -2670,13 +2679,14 @@ Have more MCQs to add? Found a mistake? Contributions are welcome!
 
 ---
 
-## 🧑‍💻 Author
+## 📢 Stay Connected
 
-**Rakesh Singh Bajetha**  
-Creator of [Edubrotech](https://www.youtube.com/@Edubrotech) – Learn tech the fun way!
+📺 Subscribe to **[Edubrotech on YouTube](https://www.youtube.com/@edubrotech?sub_confirmation=1)** for detailed AWS tutorials, interview preparation guides, and tech vlogs.  
+📧 For collaborations, reach out via the [Edubrotech contact page](https://www.youtube.com/@edubrotech/about).
 
 ---
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
